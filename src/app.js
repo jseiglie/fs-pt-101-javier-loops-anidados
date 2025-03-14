@@ -166,6 +166,5 @@ let pronoun = ['the', 'our'];
                                     lasOf.us
 
 2. mostrarlo en el html
-3. agruparlos en el html segun los dominios                                    
-                                    
+3. agruparlos en el html segun los dominios                                                               
 */
